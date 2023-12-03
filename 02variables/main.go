@@ -19,4 +19,8 @@ func main() {
 	var anothervariable int 
 	fmt.Print(anothervariable)
 	fmt.Printf("Variable is of type:  %T \n ", anothervariable)
+
+
+	withoutvar := "ratnesh"
+	fmt.Print(withoutvar)
 }
